@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW":"my-shop",
+        "JWT_PW":"authorization"
+    }
+}
